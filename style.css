@@ -1,0 +1,17 @@
+.d1 {
+    margin: 75px 0px 0px 100px;
+}
+
+.url,.user,.msg,.icon {
+    font-size: 20px;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.url {
+    width: 1300px;
+}
+
+.send {
+    font-size: 20px;
+}
